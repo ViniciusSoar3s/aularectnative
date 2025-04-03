@@ -45,7 +45,7 @@ const styles = StyleSheet.create({
     opacity: 1,
   },
   input: {
-    width: 300,
+    width: 250,
     height: 40,
     borderWidth: 1,
     borderColor: 'gray',
